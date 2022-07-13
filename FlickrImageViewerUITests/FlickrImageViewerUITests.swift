@@ -2,7 +2,7 @@
 //  FlickrImageViewerUITests.swift
 //  FlickrImageViewerUITests
 //
-//  Created by Natalia Klymenko on 10.07.2022.
+//  Created by Natalia Klymenko on 12.07.2022.
 //
 
 import XCTest
